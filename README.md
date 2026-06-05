@@ -2,11 +2,11 @@
 
 <!-- Cabeçalho com GIF ou Imagem de Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner de Boas-vindas"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY2Y2Y0ZGJkYmdqeHF1aDFmcmEzbmpmdWJoYWo1cm90ZGdyN3A0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4bAEIAB84zPwc/giphy.gif)" width="50%" alt="Banner de Boas-vindas"/>
 </p>
 
 <!-- Título e Subtítulo -->
-<h1 align="center">Olá! Eu sou o [Seu Nome] 👋</h1>
+<h1 align="center">Olá! Eu sou a Karine 👋</h1>
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong> | Apaixonado por criar soluções web incríveis 🚀
 </p>
