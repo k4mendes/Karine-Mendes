@@ -11,13 +11,12 @@
 
 <h2>👨‍💻 Sobre mim</h2>
 <p>
-  Sou um desenvolvedor focado em criar experiências digitais de alta qualidade. 
-  Estou sempre aprendendo novas tecnologias, resolvendo problemas complexos e contribuindo para a comunidade open source.
-  <br><br>
-  🎯 <strong>Objetivo atual:</strong> Me aprofundar em [Ex: Inteligência Artificial / React / Cloud Computing].
-</p>
+  Possuo formação em Análise e Desenvolvimento de Sistemas, Pós-graduação em Segurança da Informação e sou certificado CTFL (ISTQB). Minha vivência no suporte me deu uma visão prática e centrada no usuário sobre como os defeitos impactam o negócio, e agora aplico esse conhecimento para garantir a qualidade do software.
+Meu foco atual é a execução de testes manuais e a evolução na automação, sempre com atenção à integridade dos dados e à segurança das aplicações.
+🛠️ Tech Stack & Ferramentas: Java, Selenium, Postman, SQL, Git, Jira e Azure DevOps.
+🎯 Áreas de Atuação: Testes Funcionais, Regressão, Exploratórios, Validação de APIs e noções de Testes de Segurança.
+🚀 Objetivo: Busco oportunidade como Analista de Testes Júnior para contribuir com a garantia da qualidade, evoluindo na execução de testes manuais e automatizados.
 
-<!-- Tecnologias (Badges) -->
 <h2>🛠️ Tecnologias que utilizo</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
