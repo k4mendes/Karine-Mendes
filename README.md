@@ -6,10 +6,9 @@
 
 <h1 align="center">Venha me conhecer mais 👋</h1>
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> | Apaixonado por criar soluções web incríveis 🚀
+  <strong> Sou Analista de Testes de Software (QA) em transição de carreira, vindo do Suporte Técnico. 🚀
 </p>
 
-<!-- Sobre Mim -->
 <h2>👨‍💻 Sobre mim</h2>
 <p>
   Sou um desenvolvedor focado em criar experiências digitais de alta qualidade. 
