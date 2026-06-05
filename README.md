@@ -1,11 +1,10 @@
 # Olá, sou a Karine Mendes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Bem vindo ao meu perfil!"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY2Y2Y0ZGJkYmdqeHF1aDFmcmEzbmpmdWJoYWo1cm90ZGdyN3A0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4bAEIAB84zPwc/giphy.gif" width="50%" alt="Bem vindo ao meu perfil!"/>
 </p>
 
-<!-- Título e Subtítulo -->
-<h1 align="center">Olá! Eu sou a Karine 👋</h1>
+<h1 align="center">Venha me conhecer mais 👋</h1>
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong> | Apaixonado por criar soluções web incríveis 🚀
 </p>
