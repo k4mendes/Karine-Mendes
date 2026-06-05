@@ -2,7 +2,7 @@
 
 <!-- Cabeçalho com GIF ou Imagem de Banner -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY2Y2Y0ZGJkYmdqeHF1aDFmcmEzbmpmdWJoYWo1cm90ZGdyN3A0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4bAEIAB84zPwc/giphy.gif)" width="50%" alt="Banner de Boas-vindas"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY2Y2Y0ZGJkYmdqeHF1aDFmcmEzbmpmdWJoYWo1cm90ZGdyN3A0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4bAEIAB84zPwc/giphy.gif)"; width="50%" alt="Bem vindo ao meu perfil"/>
 </p>
 
 <!-- Título e Subtítulo -->
