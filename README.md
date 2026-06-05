@@ -12,7 +12,7 @@
 <h2>👨‍💻 Sobre mim</h2>
 <p>
  <a1> Possuo formação em Análise e Desenvolvimento de Sistemas, Pós-graduação em Segurança da Informação e sou certificado CTFL (ISTQB)</a1>
- <h1> Minha vivência no suporte me deu uma visão prática e centrada no usuário sobre como os defeitos impactam o negócio, e agora aplico esse conhecimento para garantir a qualidade do software.</h1>
+ <a2> Minha vivência no suporte me deu uma visão prática e centrada no usuário sobre como os defeitos impactam o negócio, e agora aplico esse conhecimento para garantir a qualidade do software.</a2>
 <h1> Meu foco atual é a execução de testes manuais e a evolução na automação, sempre com atenção à integridade dos dados e à segurança das aplicações.</h1>
 <h1>🛠️ Tech Stack & Ferramentas: Java, Selenium, Postman, SQL, Git, Jira e Azure DevOps.</h1>
 <h1>🎯 Áreas de Atuação: Testes Funcionais, Regressão, Exploratórios, Validação de APIs e noções de Testes de Segurança.</h1>
